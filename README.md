@@ -1,2 +1,2 @@
-# o.niloticus
-file for use in LDAShiny
+# Marketcheck
+file for use Marketcheck
